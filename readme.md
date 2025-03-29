@@ -3,7 +3,7 @@
 ![Menu Preview](https://media.discordapp.net/attachments/1264567204645437482/1355639956118175834/image.png?ex=67e9a998&is=67e85818&hm=1a58aa76e23a66a6011aa7827b27ec6af88447a0b6fad2cc96c1bf928ecf3b1e&=&format=webp&quality=lossless&width=629&height=1109)
 
 ## Overview
-MenuLib is a feature-rich Lua script for game enhancement that provides:
+Catenjoyer.lua is a Lua script based of the perception.cx api that provides:
 - Customizable menu system
 - Keybind management
 - Visual indicators
@@ -38,7 +38,7 @@ MenuLib is a feature-rich Lua script for game enhancement that provides:
 ## Usage
 
 ### Basic Controls
-- Toggle Menu: **END** key
+- Toggle Menu: **END** key (Same key as perceptions cs2 cheat version)
 - Drag Elements: Click and hold left mouse button
 - Save/Load Configs: Use buttons in menu
 
