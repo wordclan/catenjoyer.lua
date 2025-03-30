@@ -1,4 +1,4 @@
-# Catenjoyer Lua Script Documentation by Etee & Adam
+# Perception Lua Script Documentation by Etee & Adam
 
 ![Menu Preview](https://media.discordapp.net/attachments/1264567204645437482/1355639956118175834/image.png?ex=67e9a998&is=67e85818&hm=1a58aa76e23a66a6011aa7827b27ec6af88447a0b6fad2cc96c1bf928ecf3b1e&=&format=webp&quality=lossless&width=629&height=1109)
 
